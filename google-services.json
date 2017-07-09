@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189533883214",
+    "firebase_url": "https://autotek-bc2fe.firebaseio.com",
+    "project_id": "autotek-bc2fe",
+    "storage_bucket": "autotek-bc2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189533883214:android:15f1107ab67f40e0",
+        "android_client_info": {
+          "package_name": "com.skillorbit.autotek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189533883214-uduknkrdurnteuh41hbola112vsbmcco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillorbit.autotek",
+            "certificate_hash": "d0dc0d0467accc44cedd4ab4fdb442c6ee9565a1"
+          }
+        },
+        {
+          "client_id": "189533883214-11d9p4ou0n445np050vfmv1vpcrclq95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgew5ALu82CPw18fwjy9eP7K59mF7uig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189533883214-11d9p4ou0n445np050vfmv1vpcrclq95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
